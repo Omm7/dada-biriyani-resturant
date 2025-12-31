@@ -57,7 +57,7 @@ const Footer = () => {
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {currentYear} Dellyy Bellyy Cuttack. All rights reserved.</p>
+        <p>&copy; {currentYear} Dada Biriyani. All rights reserved.</p>
         <p className="footer-credit">Crafted with ❤️ for food lovers</p>
       </div>
     </footer>
