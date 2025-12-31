@@ -1,6 +1,6 @@
-# 🍽️ Numm Numm Resturant - Restaurant Website
+# ☕ ekaiva bakehouse - Aesthetic Cafe Website
 
-A modern, fully responsive, and beautifully animated restaurant website built with React.js. Features smooth animations, an interactive menu, shopping cart functionality, and a professional design perfect for any restaurant business.
+A modern, fully responsive, and beautifully animated cafe website built with React.js. Features smooth animations, an interactive menu, shopping cart functionality, and a cozy aesthetic design perfect for any cafe or bakehouse.
 
 ## ✨ Features
 

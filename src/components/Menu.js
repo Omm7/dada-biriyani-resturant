@@ -10,19 +10,12 @@ const Menu = ({ addToCart }) => {
 
   const categories = [
     { id: 'recommended', name: 'Recommended', icon: '⭐' },
-    { id: 'dumBiryani', name: 'Dum Biryani', icon: '🍛' },
-    { id: 'mutton', name: 'Mutton', icon: '🍖' },
-    { id: 'chicken', name: 'Chicken', icon: '🍗' },
-    { id: 'prawns', name: 'Prawns', icon: '🦐' },
-    { id: 'paneer', name: 'Paneer', icon: '🧈' },
-    { id: 'mushroom', name: 'Mushroom', icon: '🍄' },
-    { id: 'vegetable', name: 'Vegetable', icon: '🥬' },
-    { id: 'friedRice', name: 'Fried Rice', icon: '🍚' },
-    { id: 'chowmein', name: 'Chowmein', icon: '🍜' },
-    { id: 'tandoor', name: 'Tandoor', icon: '🔥' },
-    { id: 'paratha', name: 'Paratha', icon: '🫓' },
-    { id: 'soup', name: 'Soup', icon: '🥣' },
-    { id: 'extras', name: 'Extras', icon: '🥗' }
+    { id: 'coffee', name: 'Coffee', icon: '☕' },
+    { id: 'pastries', name: 'Pastries', icon: '🥐' },
+    { id: 'cakes', name: 'Cakes', icon: '🍰' },
+    { id: 'sandwiches', name: 'Sandwiches', icon: '🥪' },
+    { id: 'desserts', name: 'Desserts', icon: '🧁' },
+    { id: 'beverages', name: 'Beverages', icon: '🥤' }
   ];
 
   // Filter items based on search query

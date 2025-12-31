@@ -14,13 +14,13 @@ const Hero = () => {
       <div className="hero-overlay"></div>
       <div className="hero-content animate-fade-in">
         <div className="hero-logo">
-          <img src="/logo.png" alt="Numm Numm Resturant Logo" className="hero-logo-image" />
+          <img src="/logo.png" alt="ekaiva bakehouse Logo" className="hero-logo-image" />
         </div>
-        <h1 className="hero-title">Numm Numm Resturant</h1>
-        <p className="hero-tagline">Where Every Bite is Full of Freshness & Flavour!</p>
+        <h1 className="hero-title">ekaiva bakehouse</h1>
+        <p className="hero-tagline">Where Every Sip & Bite Feels Like Home</p>
         <p className="hero-description">
-          Family-friendly restaurant serving authentic Biryani, Mutton, Chicken, and traditional 
-          Indian dishes. Experience the rich flavors of authentic cuisine!
+          A cozy aesthetic cafe serving artisan coffee, freshly baked pastries, handcrafted cakes, 
+          and delightful brunch options. Your perfect spot for moments that matter.
         </p>
         <div className="hero-buttons">
           <button className="hero-btn primary" onClick={() => scrollToSection('menu')}>

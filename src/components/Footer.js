@@ -9,12 +9,12 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-section">
           <div className="footer-logo">
-            <img src="/logo.png" alt="Numm Numm Resturant Logo" className="footer-logo-image" />
-            <span className="logo-text">Numm Numm Resturant</span>
+            <img src="/logo.png" alt="ekaiva bakehouse Logo" className="footer-logo-image" />
+            <span className="logo-text">ekaiva bakehouse</span>
           </div>
           <p className="footer-description">
-            Family restaurant serving authentic Biryani, Mutton, Chicken, and traditional 
-            Indian dishes. Where every bite is full of freshness & flavour!
+            Your cozy neighborhood cafe serving artisan coffee, fresh pastries, and delightful treats. 
+            Where every moment becomes a memory.
           </p>
           <div className="social-icons">
             <a href="#" className="social-icon" aria-label="Facebook">📘</a>

@@ -6,38 +6,38 @@
 }
 
 :root {
-  /* Light Theme Colors - Professional & Attractive for Dadda Biriyani */
-  --primary-color: #a8203e;
-  --secondary-color: #d4af37;
-  --accent-color: #7c1c2e;
-  --dark-color: #1a1a1a;
+  /* Light Theme Colors - Aesthetic Cafe Vibes for ekaiva bakehouse */
+  --primary-color: #b08968;
+  --secondary-color: #ddb892;
+  --accent-color: #7f5539;
+  --dark-color: #3d3d3d;
   --light-color: #ffffff;
-  --gray-color: #6c757d;
-  --light-gray: #f8f9fa;
-  --bg-primary: #ffffff;
-  --bg-secondary: #fff8f0;
-  --bg-gradient: linear-gradient(135deg, #fff8f0 0%, #ffffff 100%);
-  --text-primary: #2c2c2c;
-  --text-secondary: #6c757d;
+  --gray-color: #9c9c9c;
+  --light-gray: #f8f5f1;
+  --bg-primary: #fffcf9;
+  --bg-secondary: #f8f5f1;
+  --bg-gradient: linear-gradient(135deg, #fffcf9 0%, #f8f5f1 100%);
+  --text-primary: #3d3d3d;
+  --text-secondary: #7f7f7f;
   --card-bg: #ffffff;
-  --shadow: 0 4px 20px rgba(168, 32, 62, 0.12);
-  --shadow-hover: 0 8px 30px rgba(168, 32, 62, 0.18);
-  --border-color: #f5e6ea;
-  --success-color: #4caf50;
-  --danger-color: #dc3545;
+  --shadow: 0 4px 20px rgba(176, 137, 104, 0.12);
+  --shadow-hover: 0 8px 30px rgba(176, 137, 104, 0.18);
+  --border-color: #ede4db;
+  --success-color: #6b9080;
+  --danger-color: #c1666b;
   --transition: all 0.3s ease;
 }
 
 /* Dark Theme Colors */
 body.dark-theme {
-  --primary-color: #c94d6a;
-  --secondary-color: #e8c968;
-  --accent-color: #a8203e;
+  --primary-color: #c9a689;
+  --secondary-color: #ddb892;
+  --accent-color: #b08968;
   --dark-color: #ffffff;
-  --light-color: #1a1a1a;
+  --light-color: #2d2d2d;
   --gray-color: #b0b0b0;
-  --light-gray: #2d2d2d;
-  --bg-primary: #1a1a1a;
+  --light-gray: #3a3a3a;
+  --bg-primary: #2d2d2d;
   --bg-secondary: #2d2d2d;
   --bg-gradient: linear-gradient(135deg, #2d2d2d 0%, #1a1a1a 100%);
   --text-primary: #ffffff;

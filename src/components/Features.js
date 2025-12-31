@@ -4,24 +4,24 @@ import '../styles/Features.css';
 const Features = () => {
   const features = [
     {
-      icon: '🌱',
-      title: 'Pure Veg',
-      description: '100% vegetarian dishes made with pure ingredients'
+      icon: '☕',
+      title: 'Artisan Coffee',
+      description: 'Specialty coffee expertly crafted by our baristas'
     },
     {
-      icon: '👨‍👩‍👧‍👦',
-      title: 'Family Friendly',
-      description: 'Comfortable ambience perfect for family dining'
+      icon: '🥐',
+      title: 'Fresh Baked Daily',
+      description: 'Pastries and breads made fresh every morning'
     },
     {
-      icon: '🚚',
-      title: 'Delivery Available',
-      description: 'Quick and reliable delivery to your doorstep'
+      icon: '✨',
+      title: 'Cozy Aesthetic',
+      description: 'Perfect ambience for work, study, or relaxation'
     },
     {
-      icon: '🍽️',
-      title: 'Multi-Cuisine Veg',
-      description: 'North Indian, Chinese & Sichuan specialties'
+      icon: '🎂',
+      title: 'Handcrafted Cakes',
+      description: 'Beautiful custom cakes for every celebration'
     }
   ];
 

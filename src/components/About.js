@@ -6,46 +6,45 @@ const About = () => {
     <section id="about" className="about-section">
       <div className="about-container">
         <div className="about-content animate-on-scroll">
-          <h2 className="section-title">About Numm Numm Resturant</h2>
+          <h2 className="section-title">About ekaiva bakehouse</h2>
           <div className="about-text">
             <p className="about-intro">
-              Welcome to Numm Numm Resturant, your family-friendly restaurant 
-              in Cuttack. We serve authentic Biryani, Mutton, Chicken, Prawns, and traditional 
-              Indian dishes with uncompromising quality.
+              Welcome to ekaiva bakehouse, your aesthetic neighborhood cafe where 
+              warmth meets artistry. We craft exceptional coffee, bake fresh pastries daily, and 
+              create a cozy space perfect for work, relaxation, or catching up with friends.
             </p>
             <p>
-              Our journey began with a simple vision: to create a dining experience that celebrates 
-              authentic Indian cuisine with rich flavors and fresh ingredients. 
-              Every dish we serve is crafted with passion, ensuring freshness and flavor in every bite.
+              Our journey began with a simple vision: to create a haven where quality meets comfort. 
+              From our specialty coffee to our handcrafted pastries and cakes, everything is made 
+              with love and attention to detail, creating moments you'll cherish.
             </p>
             <div className="about-mission">
               <h3>Our Mission</h3>
               <p>
-                To provide an unforgettable dining experience through exceptional 
-                authentic Biryani and Indian cuisine, outstanding service, and a comfortable family-friendly 
-                atmosphere where tradition meets flavor.
+                To provide a beautiful, welcoming space where exceptional coffee, freshly baked goods, 
+                and warm hospitality come together to create memorable experiences for our community.
               </p>
             </div>
             <div className="about-values">
               <div className="value-item">
-                <span className="value-icon">👨‍🍳</span>
+                <span className="value-icon">☕</span>
                 <div>
-                  <h4>Expert Chefs</h4>
-                  <p>Our skilled chefs bring years of experience and creativity to every dish</p>
+                  <h4>Artisan Coffee</h4>
+                  <p>Carefully sourced beans, expertly roasted, and crafted with passion</p>
                 </div>
               </div>
               <div className="value-item">
-                <span className="value-icon">🍖</span>
+                <span className="value-icon">🥐</span>
                 <div>
-                  <h4>Authentic Flavors</h4>
-                  <p>Traditional Biryani, Mutton, Chicken, and Indian dishes made with fresh ingredients</p>
+                  <h4>Fresh Baked Daily</h4>
+                  <p>Pastries, cakes, and treats made fresh every morning with premium ingredients</p>
                 </div>
               </div>
               <div className="value-item">
                 <span className="value-icon">❤️</span>
                 <div>
                   <h4>Made with Love</h4>
-                  <p>Every meal is prepared with care and attention to detail</p>
+                  <p>Every item is crafted with care in our cozy, aesthetic space</p>
                 </div>
               </div>
             </div>
