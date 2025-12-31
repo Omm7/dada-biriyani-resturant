@@ -208,10 +208,10 @@
 @media (max-width: 968px) {
   .navbar-menu {
     position: fixed;
-    top: 55px;
+    top: 65px;
     right: -100%;
     width: 280px;
-    height: calc(100vh - 55px);
+    height: calc(100vh - 65px);
     background: var(--card-bg);
     flex-direction: column;
     padding: 40px 20px;
@@ -247,7 +247,7 @@
 
 @media (max-width: 480px) {
   .logo-text {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
   }
 
   .logo-icon {
@@ -255,33 +255,33 @@
   }
   
   .logo-image {
-    width: 40px;
-    height: 40px;
+    width: 45px;
+    height: 45px;
   }
 
   .navbar-container {
-    padding: 6px 15px;
+    padding: 10px 15px;
   }
   
   .theme-toggle-btn {
-    width: 35px;
-    height: 35px;
-    padding: 5px 8px;
-    font-size: 1rem;
+    width: 38px;
+    height: 38px;
+    padding: 6px 9px;
+    font-size: 1.05rem;
   }
   
   .cart-btn {
-    padding: 5px;
-    width: 35px;
-    height: 35px;
+    padding: 6px;
+    width: 38px;
+    height: 38px;
   }
   
   .mobile-menu-btn {
-    width: 35px;
-    height: 35px;
+    width: 38px;
+    height: 38px;
   }
   
   .mobile-menu-btn span {
-    height: 2px;
+    height: 2.5px;
   }
 }
